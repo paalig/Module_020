@@ -1,6 +1,13 @@
 #include <iostream>
 
+void swap(int* b, int* a) {
+    std::cout << *a << " " << *b;
+}
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int a = 10;
+    int b = 20;
+    swap(&a, &b);
+
     return 0;
 }
