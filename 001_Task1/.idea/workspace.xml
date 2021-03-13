@@ -33,14 +33,7 @@
       <change beforePath="$PROJECT_DIR$/../../Module_019/001_Speedometer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_019/001_Speedometer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_019/001_Speedometer/cmake-build-debug/CMakeFiles/001_Speedometer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_019/001_Speedometer/cmake-build-debug/CMakeFiles/001_Speedometer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_019/001_Speedometer/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_019/001_Speedometer/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/001_Task1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/001_Task1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/001_Task1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/001_Task1.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/001_Task1.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/001_Task1.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../002_Task2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../003_Task3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614020686196</updated>
       <workItem from="1614020688444" duration="644000" />
-      <workItem from="1615648002181" duration="893000" />
+      <workItem from="1615648002181" duration="1475000" />
     </task>
     <servers />
   </component>
@@ -109,21 +102,21 @@
       <screen x="0" y="0" width="1536" height="837" />
     </state>
     <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.837@0.0.1536.837" timestamp="1614021333606" />
-    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1615648904882">
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1615649496660">
       <screen x="0" y="0" width="1536" height="837" />
     </state>
-    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.837@0.0.1536.837" timestamp="1615648904882" />
-    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1615648904882">
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.837@0.0.1536.837" timestamp="1615649496660" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1615649496660">
       <screen x="0" y="0" width="1536" height="837" />
     </state>
-    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.837@0.0.1536.837" timestamp="1615648904882" />
-    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1615648904882">
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.837@0.0.1536.837" timestamp="1615649496660" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1615649496660">
       <screen x="0" y="0" width="1536" height="837" />
     </state>
-    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.837@0.0.1536.837" timestamp="1615648904882" />
-    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1615648904882">
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.837@0.0.1536.837" timestamp="1615649496660" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1615649496660">
       <screen x="0" y="0" width="1536" height="837" />
     </state>
-    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.837@0.0.1536.837" timestamp="1615648904882" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.837@0.0.1536.837" timestamp="1615649496660" />
   </component>
 </project>
